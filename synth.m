@@ -1,3 +1,5 @@
+%Synthesizes some phonetic sounds
+
 % F1 = 730;
 % F2 = 1090;
 % F3 = 2390;

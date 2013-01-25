@@ -1,4 +1,4 @@
-%play the star spangled banner
+%play the star spangled banner using phonetic sounds
 clear
 clc
 
